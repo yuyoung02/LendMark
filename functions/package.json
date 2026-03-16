@@ -15,7 +15,7 @@
   "dependencies": {
     "dotenv": "^17.2.3",
     "firebase-admin": "^12.7.0",
-    "firebase-functions": "^5.1.1",
+    "firebase-functions": "^7.0.1",
     "nodemailer": "^7.0.10",
     "openai": "^6.9.1"
   },
